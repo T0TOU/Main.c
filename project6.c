@@ -6,8 +6,8 @@ int main()
 	printf("453+7=A(460/0)>:\n");
 	scanf("%d", &A);
 	if (A == 460)
-		printf("正确\n");
+		printf("脮媒脠路\n");
 	else
-		printf("错误\n");
+		printf("麓铆脦贸\n");
 	return 0;
 }
