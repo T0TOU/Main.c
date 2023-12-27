@@ -1,6 +1,6 @@
 #include <stdio.h>
 //int main()
 
-	//extern int test;//extern是声明的意思
+	//extern int test;//extern脢脟脡霉脙梅碌脛脪芒脣录
 	//printf("%d\n", test);
 	//return 0;
